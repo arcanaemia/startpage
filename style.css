@@ -92,8 +92,8 @@ ul.yellow:hover {
   position: relative;
   text-align: center;
   font-family: 'Iosevka';
-  background-color: #2e3440;
-  border: 5px solid #2e3440;
+  background-color: #20252d;
+  border: 5px solid #20252d;
   border-radius: 10px;
 }
 
@@ -118,7 +118,7 @@ ul.yellow:hover {
 #slideshow {
   width: 420px;
   height: 725px;
-  background: #2e3440 center / cover no-repeat;
+  background: #20252d center / cover no-repeat;
 }
 
 #slideshow img {
